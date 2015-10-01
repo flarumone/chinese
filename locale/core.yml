@@ -22,9 +22,9 @@ core:
   composer_minimize_tooltip: 最小化
 
   # These strings are used by the Composer when starting a discussion.
-  composer_discussion_body_placeholder: 回复一个...
+  composer_discussion_body_placeholder: 正文写在这里...
   composer_discussion_discard_confirmation: 该帖子未被发出，是否放弃？
-  composer_discussion_submit_button: 回复帖子
+  composer_discussion_submit_button: 发布
   composer_discussion_title_placeholder: 帖子标题
 
   # These strings are used by the Composer when editing a post.
@@ -85,7 +85,7 @@ core:
   index_cannot_start_discussion_button: "不能发布帖子"
   index_mark_all_as_read_tooltip: => core.mark_all_as_read
   index_refresh_tooltip: 刷新
-  index_start_discussion_button: 发布一个帖子
+  index_start_discussion_button: 发个帖子
 
   # These strings are used by the sorting control above the discussion list.
   index_sort_latest_button: 最新回复
