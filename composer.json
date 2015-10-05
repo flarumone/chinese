@@ -1,0 +1,23 @@
+{
+    "name": "flarumone/chinese",
+    "type": "flarum-extension",
+    "description": "中文简体语言插件",
+    "license": "MIT",
+    "require": {
+        "composer/installers": "dev-master"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "中文简体",
+            "icon": {
+                "backgroundImage": "url('{$assets}/icon.svg')",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "zh",
+            "title": "中文简体"
+        }
+    }
+}

@@ -1,4 +1,4 @@
-mentions:
+flarum-mentions:
   reply_to_post: "回复 #{number}"
   post_mentioned_notification: "{username} 回复了你的内容"
   others: "{count} 个人"

@@ -1,4 +1,4 @@
-sticky:
+flarum-sticky:
   discussion_stickied_notification: "{username} 置顶了你的帖子"
   discussion_stickied_post: "{username} 置顶了此帖子"
   discussion_unstickied_post: "{username} 取消置顶此帖子"

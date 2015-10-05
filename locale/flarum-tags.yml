@@ -1,4 +1,4 @@
-tags:
+flarum-tags:
   tags: 标签
   discussion_tagged_post:
     one: "{username} {action} 标签"

@@ -1,4 +1,4 @@
-likes:
+flarum-likes:
   post_liked_notification: "{username} 赞了你的内容"
   post_likes_modal_title: 点赞用户
   post_liked_by_self: "{users} 赞了它"
